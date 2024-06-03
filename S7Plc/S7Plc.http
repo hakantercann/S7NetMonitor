@@ -1,0 +1,6 @@
+@S7Plc_HostAddress = http://localhost:5095
+
+GET {{S7Plc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
